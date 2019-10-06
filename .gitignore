@@ -4,3 +4,5 @@
 
 /.vs
 /BulkEmailSender/bin/Debug/netcoreapp2.0
+/BulkEmailSender/obj/Debug/netcoreapp2.0
+/BulkEmailSender/obj
